@@ -1,2 +1,2 @@
-# Hello_Go
+# Hello Go
 practice with go language
